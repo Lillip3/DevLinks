@@ -1,10 +1,11 @@
-# DevLinks
+<h1 align="center">DevLinks</h1>
 
 
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
-[Estude esse projeto em formato de vídeo clicando aqui.](https://www.rocketseat.com.br/)
+<p align="center">Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.</p>
 
-[🔗clique aqui para acessar](https://lillip3.github.io/DevLinks/)
+
+
+
 
 
 ![preview](./assets/preview.jpg)
@@ -30,6 +31,11 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## 📝Lincença
 
 Esse projeto está sob a licença MIT.
+
+
+## 👇Página pronta
+
+[🔗Clique aqui para acessar](https://lillip3.github.io/DevLinks)
 
 ## Contato
 
